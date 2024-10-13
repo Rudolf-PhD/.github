@@ -1,4 +1,4 @@
-## Rudolf J PhD Organisation 👋
+## Rudolf J PhD 📜
 This organisation is to manage my PhD repositories.
 
 📕 By default, repositories are private. 
